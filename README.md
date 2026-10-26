@@ -78,7 +78,7 @@ Pivot Tables provided an efficient way to summarise large datasets.
 
 <img width="691" height="625" alt="image" src="https://github.com/user-attachments/assets/2c5b9f60-5c23-4170-be64-fac67cef0fd6" />
 
-📈 Statistical Analysis Dataset
+📈 Innovation and Growth Dataset
 
 This activity focused on applying analytical and statistical techniques within Excel.
 
