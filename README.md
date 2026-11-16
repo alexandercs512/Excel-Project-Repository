@@ -55,6 +55,13 @@ As part of this week's governance modules, I examined critical UK legislation go
 
 ---
 
+### 🌟 Reflection
+
+Completing this Excel workbook built a robust foundation in data management, automated calculations, and visual analytics[cite: 5]. By transitioning from foundational spreadsheet sorting to advanced functions like SWITCH and multidimensional PivotTables, this project demonstrates core technical readiness for a Data Technician rol
+
+---
+
+
 ## 📁 Repository Structure
 ```text
 ├── datasets/             # Source Excel files and workbooks
